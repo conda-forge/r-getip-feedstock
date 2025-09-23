@@ -14,7 +14,7 @@ source:
 build:
   missing_dso_whitelist:
     - '*/R.dll'  # [win]
-  number: 1
+  number: 2
   rpaths:
     - lib/R/lib/
     - lib/
